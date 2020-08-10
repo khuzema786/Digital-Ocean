@@ -3,12 +3,13 @@
 [Reference Link](https://www.digitalocean.com/docs/droplets/how-to/create/)
 
 - ### Create A Droplet In Digital Ocean
-    <img src="./Images/Screenshot(92)"/>
-    <img src="./Images/Screenshot(93)"/>
-    <img src="./Images/Screenshot(94)"/>
-    <img src="./Images/Screenshot(95)"/>
-    <img src="./Images/Screenshot(96)"/>
-    <img src="./Images/Screenshot(97)"/>
+    <img src="https://github.com/khuzema786/Digital-Ocean/blob/master/Images/Screenshot%20(92).png"/>
+    <img src="https://github.com/khuzema786/Digital-Ocean/blob/master/Images/Screenshot%20(93).png"/>
+    <img src="https://github.com/khuzema786/Digital-Ocean/blob/master/Images/Screenshot%20(94).png"/>
+    <img src="https://github.com/khuzema786/Digital-Ocean/blob/master/Images/Screenshot%20(95).png"/>
+    <img src="https://github.com/khuzema786/Digital-Ocean/blob/master/Images/Screenshot%20(96).png"/>
+    <img src="https://github.com/khuzema786/Digital-Ocean/blob/master/Images/Screenshot%20(97).png"/>
+    
   - ##### Commands (For generating ssh key)
     - ssh-keygen
     - cat ~/.ssh/id_rsa.pub
